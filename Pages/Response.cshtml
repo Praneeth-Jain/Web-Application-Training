@@ -1,0 +1,37 @@
+﻿@page
+@model LoginPage.Pages.ResponseModel
+@{
+}
+@{
+    if (TempData["Message"] != null)
+    {
+        
+    <div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+        <div class="alert alert-success" role="alert">
+            <h4 class="alert-heading">Success!</h4>
+            <p>@TempData["Message"]</p>
+            <hr>
+            <p class="mb-0">Thank you for your action. You may proceed further or go back to the homepage.</p>
+        </div>
+        <div class="btn-container">
+        <button>
+        <a asp-page="/Index" class="btn btn-primary">Go to Homepage</a>
+        </button>
+        <button>
+        <a asp-page=@TempData["link"] class="btn btn-secondary">Continue</a>
+        </button>
+        </div>
+    </div>
+        </div>
+    }
+    else
+    {
+        <div id="failureMessage" class="alert alert-danger d-none" role="alert">
+            <h4 class="alert-heading">Failure!</h4>
+            <p>Unfortunately, the operation failed. Please try again.</p>
+            <hr>
+            <p class="mb-0">You can go back to the homepage or retry the action.</p>
+        </div>
+    }
+}

@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@* <div class="text-center">
+    @{
+        if (TempData["Auth"] == null)
+            {
+    <p class="alert-danger">
+    You are not an Admin
+    </p>
+            }
+        }
+</div> *@
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <div class="form-group">
+    <div class="btn-container">
+        <button class="btn btn-secondary"><a class="text-light" asp-page="/Admin/AdminLogin">Admin Login</a> </button>
+    </div>
+    </div>
+
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

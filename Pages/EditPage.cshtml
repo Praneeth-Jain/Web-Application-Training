@@ -1,0 +1,33 @@
+﻿@page
+@model LoginPage.Pages.EditPageModel
+@{
+}
+
+
+<div class="container">
+    <h1>Edit Page</h1>
+     <form method="post" asp-page-handler="Save" enctype="multipart/form-data">
+        <div class="form-group">
+            <input type="hidden" asp-for="MyCustomer.Id" />
+            <label class="control-label">Name :</label>
+            <input class="form-control"  asp-for=@Model.MyCustomer.Name />
+        </div><div class="form-group">
+            <label class="control-label">Email :</label>
+            <input class="form-control" asp-for=@Model.MyCustomer.Email />
+        </div><div class="form-group">
+            <label class="control-label">Password :</label>
+            <input class="form-control" asp-for=@Model.MyCustomer.Password />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Age :</label>
+            <input class="form-control" asp-for=@Model.MyCustomer.Age />
+        </div>
+        <div class="form-group mt-3 mb-3">
+            <label asp-for="@Model.NewImage" class="control-label">Display Picture</label>
+            <input asp-for="@Model.NewImage" type="file" class="form-control" />
+        </div>
+        <div class="btn-container">
+            <button class="btn-success text-light" type="submit">Save</button>
+        </div>
+    </form> 
+</div>

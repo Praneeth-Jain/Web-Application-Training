@@ -1,0 +1,119 @@
+﻿@page
+@model AdminHomeModel
+@{
+}
+
+<div class="container grid">
+
+<h1>Admin Home Page</h1>
+
+<div class="row">
+    <div class="col-3">
+
+    <div class="d-flex">
+        
+        <div class="text-dark p-3" id="sidebar">
+            <button class="btn btn-light mb-3 w-100" data-bs-toggle="collapse" data-bs-target="#buttonGroup" aria-expanded="false" aria-controls="buttonGroup">
+                ☰
+            </button>
+
+            
+            <div class="collapse" id="buttonGroup">
+                <button class="btn btn-secondary w-100 mb-2">
+                    <a class="text-decoration-none text-light" asp-page="/Product/Index">Prodcuts</a>
+                </button>
+            </div>
+        </div>
+     </div>
+ </div>
+ <div class="col container-fluid">
+
+<h2>User List</h2>
+@* 
+<table class="table-bordered p-3">
+    <tr>
+        <th>Name</th>
+    </tr>
+        @{
+            foreach (var users in Model.CustomerList)
+            {
+                <tr>
+                <td>@users.Name</td>
+                </tr>
+            }
+        }
+</table>
+ *@
+@* 
+<div class="card-group">
+        @{
+
+
+            foreach (var users in Model.CustomerList)
+            {
+                <div class="card-body d-flex h-75 w-50 border-bottom-3 border-primary">
+                    <img src="" class="card-img h-50 w-25" alt="Alternate Text" />
+                    <div class="m-3 mt-0" >
+                    <p class="card-text">Name : @users.Name</p>
+                    <p class="card-text">Email : @users.Email</p>
+                    <p class="card-text">Age : @users.Age</p>
+                    <button class="btn btn-primary">Edit</button>
+                    <button class="btn btn-danger">Delete</button>
+                    </div>
+                </div>
+            }
+
+
+         
+
+        }
+</div>
+
+</div> *@
+    @{
+
+
+
+
+        foreach (var users in Model.CustomerList)
+        {
+
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                                <img src="~/uploads/@users.ImgPath" class="img-fluid rounded-start mt-5" alt="...">
+                                   
+        </div>
+        <div class="col-md-8 shadow">
+            <div class="card-body">
+                <h5 class="card-title">@users.Name</h5>
+                <p class="card-text">Email : @users.Email</p>
+                <p class="card-text">Age : @users.Age</p>
+                            @{
+                                if(@users.isActive == 1)
+                                {
+                                  
+                                    <span class="btn w-25 mb-2 d-block  bg-success text-light rounded-pill">Active</span>
+                                    <button class="btn btn-secondary"><a class="text-decoration-none text-light" asp-route-id=@users.Id asp-route-status=@users.isActive asp-page-handler="Handler" asp-page="/Admin/AdminHome">Disable</a></button>
+                                   
+                                }
+                                else
+                                {
+                                    <span class="btn w-25 mb-2 d-block bg-danger text-light rounded-pill">Inactive</span>
+                                    <button class="btn btn-success"><a class="text-decoration-none text-light" asp-route-id=@users.Id asp-route-status=@users.isActive asp-page-handler="Handler" asp-page="/Admin/AdminHome">Enable</a></button>
+                                }
+               }
+                            <button class="btn btn-danger border-3 border-secondary"><a class="text-decoration-none text-light" asp-route-id=@users.Id asp-page-handler="Delete" asp-page="/Admin/AdminHome">Delete</a></button>
+                            <button class="btn btn-primary border-3 border-secondary"><a class="text-decoration-none text-light" asp-route-id=@users.Id asp-page-handler="EditHandler" asp-page="/EditPage">Edit</a></button>
+            </div>
+        </div> 
+    </div>
+</div>
+      
+            
+    }
+}
+</div>
+
+ </div>
+</div>

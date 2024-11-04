@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LoginPage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LoginPage.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\productImg\\0adb620d-2b43-4f94-8787-4e0607bb5c04.jpg",
+      "PackagePath": "staticwebassets\\productImg\\0adb620d-2b43-4f94-8787-4e0607bb5c04.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\productImg\\0b178079-c92a-4203-afaf-e79a530ffaf8.jpg",
+      "PackagePath": "staticwebassets\\productImg\\0b178079-c92a-4203-afaf-e79a530ffaf8.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\productImg\\41cb18a8-8948-484f-a046-6940ade62b14.jpg",
+      "PackagePath": "staticwebassets\\productImg\\41cb18a8-8948-484f-a046-6940ade62b14.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\productImg\\787f05c3-13c5-44fb-8c33-78187f527ef1.webp",
+      "PackagePath": "staticwebassets\\productImg\\787f05c3-13c5-44fb-8c33-78187f527ef1.webp"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\productImg\\b5a29123-512f-4dfc-bac3-c7eb7fdca17b.jpg",
+      "PackagePath": "staticwebassets\\productImg\\b5a29123-512f-4dfc-bac3-c7eb7fdca17b.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\productImg\\e8ad583b-32a1-4723-ba2c-890e036fcddc.jpg",
+      "PackagePath": "staticwebassets\\productImg\\e8ad583b-32a1-4723-ba2c-890e036fcddc.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\13ce8ffc-3478-4d5b-92b1-c328373f84a7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\13ce8ffc-3478-4d5b-92b1-c328373f84a7.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\15287cd6-3397-4bc4-9d19-593a4afa24f2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\15287cd6-3397-4bc4-9d19-593a4afa24f2.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\26a15a2c-3801-43d9-9eef-6237503fc4d1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\26a15a2c-3801-43d9-9eef-6237503fc4d1.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\521aa36a-1a92-4919-b325-3e3411c5c693.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\521aa36a-1a92-4919-b325-3e3411c5c693.jpeg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\6a4634bb-abb3-433f-b4ce-9b00ff7a95dd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6a4634bb-abb3-433f-b4ce-9b00ff7a95dd.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\87a0f76a-6c4d-4fb5-8d12-bdbfe84b7a5d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\87a0f76a-6c4d-4fb5-8d12-bdbfe84b7a5d.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\88d6de79-84c3-4a12-842a-c3e26007d7c3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\88d6de79-84c3-4a12-842a-c3e26007d7c3.jpg"
+    },
+    {
+      "Id": "D:\\Web-Application\\dot-net\\LoginPage\\wwwroot\\uploads\\903b9bfe-a30b-429e-9e84-44bc98c57413.jpg",
+      "PackagePath": "staticwebassets\\uploads\\903b9bfe-a30b-429e-9e84-44bc98c57413.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LoginPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LoginPage.props",
+      "PackagePath": "build\\LoginPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LoginPage.props",
+      "PackagePath": "buildMultiTargeting\\LoginPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LoginPage.props",
+      "PackagePath": "buildTransitive\\LoginPage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

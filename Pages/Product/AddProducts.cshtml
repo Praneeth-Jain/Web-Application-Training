@@ -1,0 +1,50 @@
+﻿@page
+@model LoginPage.Pages.Product.AddProductsModel
+@{
+}
+
+<div class="container">
+    <h1>Add Products</h1>
+
+
+    <form method="post" asp-page-handler="AddProduct" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="product.ProductName" class="control-label">Product Name :</label>
+            <input asp-for="product.ProductName" class="form-control" />
+            <span asp-validation-for="product.ProductName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="product.ProductPrice" class="control-label">Product Price</label>
+            <input asp-for="product.ProductPrice" class="form-control" />
+            <span asp-validation-for="product.ProductPrice" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="product.ProductCategory" class="control-label">Product Category:</label>
+            <input asp-for="product.ProductCategory" class="form-control"/>
+            <span asp-validation-for="product.ProductCategory" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="product.ProductDescription" class="control-label">Product Description:</label>
+            <input asp-for="product.ProductDescription" class="form-control"/>
+            <span asp-validation-for="product.ProductDescription" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="product.quantity" class="control-label">Product Quantity</label>
+            <input asp-for="product.quantity" class="form-control"  />
+            <span asp-validation-for="product.quantity" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="product.ProductImage" class="control-label">Product Image</label>
+            <input type="file" asp-for="product.ProductImage" class="form-control"  />
+            <span asp-validation-for="product.ProductImage" class="text-danger"></span>
+        </div>
+
+        <button class="btn btn-primary mt-4">Add Product</button>
+    </form>
+
+</div>
